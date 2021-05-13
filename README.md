@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Gmail Badge](https://img.shields.io/badge/-ismael.h@outlook.co.th-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ismael.h@outlook.co.th)](mailto:ismael.h@outlook.co.th) [![Linkedin Badge](https://img.shields.io/badge/-gitihm?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gitihm/)](https://www.linkedin.com/in/gitihm/)
+
+<p align="left">
+<img src=https://github-readme-stats.vercel.app/api?username=gitihm&show_icons=true&include_all_commits=true&count_private=true alt=rahuldkjain />
+</p> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitihm&langs_count=20&layout=compact&&hide_title=true&&)](https://github.com/anuraghazra/github-readme-stats)

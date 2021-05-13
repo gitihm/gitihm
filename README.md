@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Gmail Badge](https://img.shields.io/badge/-ismael.h@outlook.co.th-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ismael.h@outlook.co.th)](mailto:ismael.h@outlook.co.th) [![Linkedin Badge](https://img.shields.io/badge/-gitihm?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gitihm/)](https://www.linkedin.com/in/gitihm/)
- [![Linkedin Badge](https://img.shields.io/badge/-gitihm?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gitihm/)](https://www.linkedin.com/in/gitihm/)
+[![Gmail Badge](https://img.shields.io/badge/-ismael.h@outlook.co.th-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ismael.h@outlook.co.th)](mailto:ismael.h@outlook.co.th) 
+[![Linkedin Badge](https://img.shields.io/badge/-gitihm?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gitihm/)](https://www.linkedin.com/in/gitihm/)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCONDAD1r1f4ajf5SLEtTPIQ?style=social)
+
 <p align="left">
 <img src=https://github-readme-stats.vercel.app/api?username=gitihm&show_icons=true&include_all_commits=true&count_private=true alt=rahuldkjain />
 </p> 
